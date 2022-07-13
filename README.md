@@ -1,6 +1,6 @@
-### Hello there 👋 I'm Adam, A  _web developer_ and spare time _games developer_.
+### Hello there 👋 I'm Adam, A  _web developer_ and in my spare time a _games developer_.
 
-* 🌱 I’m currently learning more about Frontend and Backend tech stacks like React, node, tailwind and MongoDB to name a few.
+* 🌱 I’m currently learning more about Frontend and Backend tech stacks like React, node, tailwind and MongoDB to name few.
 * 🔭 I’m currently working on projects to further my portfolio and make myself more desirable to companies.
 * ⚡ Fun fact: I used to be a plumber before changing career.
 <!--

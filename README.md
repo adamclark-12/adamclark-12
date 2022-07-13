@@ -10,7 +10,7 @@
 ***
 * 🔭 I’m currently working on projects to further my portfolio and make myself more desirable to companies.
 ***
-* ⚡ Fun fact: I used to be a plumber before changing career.
+* ⚡ Fun fact: I used to be a professional plumber before changing careers.
 <!--
 **adamclark-12/adamclark-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

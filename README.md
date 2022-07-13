@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there 👋 I'm Adam, A web developer and spare time games developer.
 
+🌱 I’m currently learning more about different Frontend and Backend tech stacks like React, node, tailwind and MongoDB to name a few.
+🔭 I’m currently working on projects to further my portfolio and make myself more desirable to companies.
+⚡ Fun fact: I used to be a plumber before changing career.
 <!--
 **adamclark-12/adamclark-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

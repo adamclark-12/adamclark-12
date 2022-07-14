@@ -8,7 +8,7 @@
           - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
             - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) for design. 
 
-* 🔭 I’m currently working on projects to further my portfolio and make myself more desirable to companies.  
+* 🔭 I’m currently working on projects to further my portfolio and get myself hired!  
 
 * ⚡ Fun fact: I used to be a professional plumber before changing careers.
 <!--

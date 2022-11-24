@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Adam, A  _web developer_ and in my spare time a _games developer_.
+### Hello there 👋 I'm Adam, a _developer_ and in my spare time a _games developer_.
 ***
 * 🔭 I’m currently working on improving my website and portfolio which can be found here -> https://adam-clark.dev
 

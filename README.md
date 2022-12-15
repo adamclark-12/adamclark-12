@@ -1,6 +1,9 @@
 ### Hello there 👋 I'm Adam, a _developer_ and in my spare time a _games developer_.
 ***
-* 🔭 I’m currently working on improving my website and portfolio which can be found here -> https://adam-clark.dev
+       https://adam-clark.dev 
+
+* 🔭 I’m currently working on improving my website and improving my portfolio 
+
 
 * 🌱 I’m using these Frontend and Backend languages and frameworks:
 
